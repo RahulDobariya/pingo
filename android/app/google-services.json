@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "861041334807",
+    "firebase_url": "https://pingo-demo-4046a-default-rtdb.firebaseio.com",
+    "project_id": "pingo-demo-4046a",
+    "storage_bucket": "pingo-demo-4046a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861041334807:android:9087201dcc4848a79f1a52",
+        "android_client_info": {
+          "package_name": "com.example.pingo_demo_rahul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ZiXtu2PHYIcLUXEK1kFHWJvNBjCrRKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

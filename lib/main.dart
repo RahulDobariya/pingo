@@ -26,7 +26,6 @@ class MyApp extends StatelessWidget {
           create: (_) => RemoteConfigService.initialize(),
           initialData: RemoteConfigService.defaultService(),
           catchError: (_, error) {
-            print('Error initializing RemoteConfigService: $error');
             return RemoteConfigService.defaultService();
           },
         ),

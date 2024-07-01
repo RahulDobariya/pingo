@@ -1,7 +1,8 @@
 # pingo_demo_rahul
 
 The Challenge:
-You have to build a news app which uses Firebase Authentication, Firebase Remote Config, and will fetch news from https://newsapi.org/ as per the specified designs.
+
+I have to build a news app which uses Firebase Authentication, Firebase Remote Config, and will fetch news from https://newsapi.org/ as per the specified designs.
 
 
 What is expected:
